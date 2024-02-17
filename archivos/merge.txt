@@ -1,1 +1,0 @@
-Al crear el archivo "respuesta.txt" en la carpeta "archivos", si aparecia un cambio registrado y a la hora de hacer el commit apareció la carpeta.
