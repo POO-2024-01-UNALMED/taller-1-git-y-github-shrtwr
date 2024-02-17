@@ -1,0 +1,3 @@
+Nombre: Juan José Gómez Grajales
+Edad: 18 años
+Aspiraciones de la materia: Luego de entender que la POO es tan utilizada en el ambito de la programacion, mis aspiraciones son dominar la creación de software aprovechando conceptos como la reutilización de código, comprender las clases, objetos, propiedades, etc.
