@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 Nombre: Juan José Gómez Grajales
 Edad: 18 años
 Aspiraciones de la materia: Luego de entender que la POO es tan utilizada en el ambito de la programacion, mis aspiraciones son dominar la creación de software aprovechando conceptos como la reutilización de código, comprender las clases, objetos, propiedades, etc.
 =======
 Despues de crear el archivo respuesta en la carpeta, si podremos realizar el commit y la carpeta aparecerá en el repositorio en la web.
->>>>>>> 1e42d4366d448ec659c19420b3b2ba5882163b67
+
 
 A la hora de modificar dos archivos al mismo tiempo es importante tener cuidado porque puede provocar conflictos de fusión y problemas de consistencia en el código. Es mas antes de realizar un push, realizar un pull de los cambios en el repositorio.
