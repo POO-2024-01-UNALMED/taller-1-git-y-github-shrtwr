@@ -1,1 +1,0 @@
-Despues de crear "respuesta.txt" y realizar el commit y el push desde GitHub Deskopt, la carpeta apareció en el repositorio en la web.
