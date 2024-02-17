@@ -1,0 +1,1 @@
+Al realizar el commit del archivo "respuesta.txt" la carpeta "archivos" apareció finalmente en el repositorio en la web.
